@@ -2,9 +2,8 @@
 
 myFunction();
 function myFunction() {
-	// body...
 
-	//alert(web);
+
 
 			  $.ajax({
                
